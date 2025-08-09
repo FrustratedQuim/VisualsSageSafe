@@ -1,0 +1,4 @@
+name: dump
+version: '1.0-SNAPSHOT'
+main: org.ratger.dump.Dump
+api-version: '1.21'
